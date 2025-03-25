@@ -1,6 +1,7 @@
 img {
-    width: 50%;
-    height: 70%;
-    left: auto;
-    bottom: auto;
+    height: 300px;
+    width: fit-content;
+}
+#carouselExampleIndicators {
+    width: 500px;
 }
